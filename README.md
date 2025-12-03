@@ -1,2 +1,2 @@
-# starmapper
+# Star Mapper
 discernment techniques
