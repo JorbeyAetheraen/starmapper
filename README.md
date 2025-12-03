@@ -1,0 +1,2 @@
+# starmapper
+discernment techniques
